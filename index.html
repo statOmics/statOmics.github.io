@@ -3,14 +3,3 @@ layout: default
 ---
 
 <p>Welcome to the website for software and tutorial projects created and maintained by the StatOmics Group. Below you can find a list of software we have developed, and on the subsequent pages are documentation and links to downloads and source code (hosted on our <a href="https://github.com/statOmics">Github</a> page).</p>
-
-<hr>
-
-<ul>
-  {% for project in site.projects %}
-    <li>
-        <a href="{{ project.url | prepend: site.baseurl | append: site.projects.output_ext }}">{{ project.name }}</a>
-        <p class="project-description">{{ project.description }}</p>
-    </li>
-  {% endfor %}
-</ul>
