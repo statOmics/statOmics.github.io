@@ -118,11 +118,11 @@ Our research is structured according to the 'omics domain: Genomics (meta-genomi
     <div style="position:absolute;display:block;background:url('pages/figs/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
   </div>
 
-  <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 500px; height: 500px; overflow: hidden;">
+  <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 500px; height: 250px; overflow: hidden;">
 
   <div data-p="112.50" style="display: none;">
     <a href="https://www.ncbi.nlm.nih.gov/pubmed/29478411">
-<img data-u="image" src="pages/figs/zinbwave-zinger.png" title=""/>
+<img data-u="image" src="pages/figs/zinbwave-zingeR.png" title=""/>
     </a>
     </div>
 
@@ -149,11 +149,6 @@ Our research is structured according to the 'omics domain: Genomics (meta-genomi
     <img data-u="image" src="pages/figs/stageR.png" title=""/>
         </a>
       </div>
-
-    <div data-p="112.50" style="display: none;">
-      <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=((Lieven+Clement%5BAuthor%5D)+AND+Foulquié-Moreno%5BAuthor%5D)">
-	<img data-u="image" src="pages/figs/qtl.png" />
-      </a>
   </div>
 
   </div>
