@@ -9,7 +9,9 @@ Most of our open-source tools and tutorials including this website can be found 
 
 1. Software Tools  
   - [stageR: stage-wise testing for gene-level FDR control](https://github.com/statOmics/stageR)
+  - [zingeR: zero inflated negative binomial gene expression in R](https://github.com/statOmics/zingeR)
   - [MSqRob: Robust peptide level models for differential analysis in proteomics](https://github.com/statOmics/MSqRob)
+
 2. Courses  
   - [Proteomics Data Analysis](https://github.com/statOmics/pda)
 3. Companion repositories with the Data Analysis of Journal Papers  
