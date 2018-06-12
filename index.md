@@ -151,8 +151,6 @@ Our research is structured according to the 'omics domain: Genomics (meta-genomi
       </div>
   </div>
 
-  </div>
-
   <!-- Bullet Navigator -->
   <div data-u="navigator" class="jssorb05" style="bottom:16px;right:16px;" data-autocenter="1">
     <!-- bullet navigator item prototype -->
