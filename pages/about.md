@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Instructor
+title: lieven_clement
 ---
 
 ### Lieven Clement
