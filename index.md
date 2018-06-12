@@ -118,26 +118,30 @@ Our research is structured according to the 'omics domain: Genomics (meta-genomi
     <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
     <div style="position:absolute;display:block;background:url('pages/figs/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
   </div>
+
   <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 500px; height: 500px; overflow: hidden;">
+
     <div data-p="112.50" style="display: none;">
       <a href="https://www.ncbi.nlm.nih.gov/pubmed/26566788">
 	<img data-u="image" src="pages/figs/IntroFig.png" title=""/>
       </a>
     </div>
+
       <div data-p="112.50" style="display: none;">
         <a href="https://www.ncbi.nlm.nih.gov/pubmed/28784146">
     <img data-u="image" src="pages/figs/stageR.png" title=""/>
         </a>
       </div>
+
         <div data-p="112.50" style="display: none;">
           <a href="https://www.ncbi.nlm.nih.gov/pubmed/29478411">
-      <img data-u="image" src="zinbwave-zinger.gif" title=""/>
+      <img data-u="image" src="pages/figs/zinbwave-zinger.gif" title=""/>
           </a>
           </div>
 
             <div data-p="112.50" style="display: none;">
               <a href="https://www.ncbi.nlm.nih.gov/pubmed/28661493">
-          <img data-u="image" src="saas.png" title=""/>
+          <img data-u="image" src="pages/figs/saas.png" title=""/>
               </a>
         </div>
 
@@ -145,6 +149,8 @@ Our research is structured according to the 'omics domain: Genomics (meta-genomi
       <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=((Lieven+Clement%5BAuthor%5D)+AND+Foulquié-Moreno%5BAuthor%5D)">
 	<img data-u="image" src="pages/figs/qtl.png" />
       </a>
+  </div>
+
   </div>
 
   <!-- Bullet Navigator -->
