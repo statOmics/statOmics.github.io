@@ -3,8 +3,8 @@ layout: default
 title: publications
 ---
 
-Below are links to the labs recent key methods papers.
-For a list with all my papers you can visit [Google Scholar](https://scholar.google.be/citations?hl=en&user=EQmZq4cAAAAJ&view_op=list_works&sortby=pubdate) or PubMed.
+Below are links to recent statOmics methods papers.
+A list with all my papers can be retrieved at [Google Scholar](https://scholar.google.be/citations?hl=en&user=EQmZq4cAAAAJ&view_op=list_works&sortby=pubdate) or PubMed.
 
 1. Genomics
   - [Model-Based Classification for Digital PCR applications. (Analytical Chemistry 2017)](https://www.ncbi.nlm.nih.gov/pubmed/28350455)
