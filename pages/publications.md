@@ -4,7 +4,7 @@ title: publications
 ---
 
 Below are links to recent statOmics methods papers.
-A list with all my papers can be retrieved at [Google Scholar](https://scholar.google.be/citations?hl=en&user=EQmZq4cAAAAJ&view_op=list_works&sortby=pubdate) or the [Ghent University Archive](https://biblio.ugent.be/person/801001441317).
+A list with all my papers can be retrieved at [Google Scholar](https://scholar.google.be/citations?hl=en&user=EQmZq4cAAAAJ&view_op=list_works&sortby=pubdate) or the [Ghent University Archive](https://biblio.ugent.be/publication?sort=year.desc&sort=datecreated.desc&q=author+exact+801001441317&q=type+exact+journalArticle).
 
 1. Genomics
   - [Model-Based Classification for Digital PCR applications. (Analytical Chemistry 2017)](https://www.ncbi.nlm.nih.gov/pubmed/28350455)
