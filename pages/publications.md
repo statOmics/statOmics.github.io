@@ -8,6 +8,8 @@ A list with all my papers can be retrieved at [Google Scholar](https://scholar.g
 
 1. Genomics
   - [Model-Based Classification for Digital PCR applications. (Analytical Chemistry 2017)](https://www.ncbi.nlm.nih.gov/pubmed/28350455)
+  - [ViVaMBC: Model Based Clustering for Estimating Viral Sequence Variation (BMC Bioinformatics 2015)](https://www.ncbi.nlm.nih.gov/pubmed/25887734)
+  - [VirVarSeq: Low-frequency Virus Variant Detection Using Adaptive Base-Calling Accuracy Filtering (Bioinformatics 2015)](https://www.ncbi.nlm.nih.gov/pubmed/25178459)
   - [Variance Components in ddpcr (BMC Bioinformatics 2014)](https://www.ncbi.nlm.nih.gov/pubmed/25147026)
 
 2. Transcriptomics
