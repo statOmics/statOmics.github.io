@@ -17,5 +17,6 @@ title: People
 #### PhD Alumni
 
 1. Kristof De Beuf (PhD)
-2. Bart Jacobs (PhD)
+2. Anyiawung Chiara Forcheh (PhD)
 3. Bie Verbist (PhD)
+4. Bart Jacobs (PhD)
