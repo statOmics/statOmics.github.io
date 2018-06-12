@@ -9,7 +9,7 @@ We develop novel statistical methods and tools for the interpretation of omics d
 Our research is structured according to three 'omics domain: Meta-genomics, Transcriptomics (RNA-seq and single cell RNA-seq) and Proteomics (Identification and Differential Analysis in Mass Spectrometry based Quantitative Proteomics). We also leverage expertise in experimental design and data analysis for omics to researchers in the life sciences and have a keen interest in 'omics data integration.
 
 
-<div style="max-width: 1100px;margin-left: auto ; margin-right: auto ;">
+<div style="max-width: 100%;margin-left: auto ; margin-right: auto ;">
 
 <script type="text/javascript" src="assets/js/jssor.slider-21.1.min.js"></script>
 <!-- use jssor.slider-21.1.debug.js instead for debug -->
