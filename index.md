@@ -111,14 +111,14 @@ Our research is structured according to the 'omics domain: Genomics (meta-genomi
 </style>
 
 
-<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 550px; height: 500px; overflow: hidden; visibility: hidden;">
+<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1100px; height: 500px; overflow: hidden; visibility: hidden;">
   <!-- Loading Screen -->
   <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
     <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
     <div style="position:absolute;display:block;background:url('pages/figs/loading.gif') no-repeat center center;top:0px;left:0px;width:100%;height:100%;"></div>
   </div>
 
-  <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 500px; height: 250px; overflow: hidden;">
+  <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 1000px; height: 500px; overflow: hidden;">
 
   <div data-p="112.50" style="display: none;">
     <a href="https://www.ncbi.nlm.nih.gov/pubmed/29478411">
