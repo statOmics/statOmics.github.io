@@ -15,7 +15,7 @@ A list with all my papers can be retrieved at [Google Scholar](https://scholar.g
   - [stageR: Stage-wise Testing Boosts Power for differential Analysis at Transcript-level and for Complex Designs (Genome Biology 2017)](https://www.ncbi.nlm.nih.gov/pubmed/28784146)
 
 3. Proteomics
-  - [Identification of Peptides when Interested in a Particular Protein Subset (Nature Methods 2017)](https://www.ncbi.nlm.nih.gov/pubmed/28661493)
+  - [Reliable Identification of Peptides when Interested in a Particular Protein Subset (Nature Methods 2017)](https://www.ncbi.nlm.nih.gov/pubmed/28661493)
   - [MSqRob Tutorial Paper](https://www.ncbi.nlm.nih.gov/pubmed/28391044)
   - [MSqRob: Peptide-level Robust Regression for Differential Analysis at the Protein-level, (MCP 2018)](https://www.ncbi.nlm.nih.gov/pubmed/26566788)
   - [Method Comparison: Peptide-level Regression vs Summarization (JPR 2016)](https://www.ncbi.nlm.nih.gov/pubmed/25827922)
