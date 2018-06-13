@@ -113,7 +113,7 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
 </style>
 
 
-<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 900px; height: 450px; overflow: hidden; visibility: hidden;">
+<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1050px; height: 550px; overflow: hidden; visibility: hidden;">
 
   <!-- Loading Screen -->
   <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
