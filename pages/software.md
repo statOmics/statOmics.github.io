@@ -2,7 +2,7 @@
 layout: default
 title: software
 ---
-<img src="./figs/shapeImage.png" width="100%">
+<img src="./figs/software.png" width="100%">
 
 ### GitHub
 
