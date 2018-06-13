@@ -2,6 +2,6 @@
 layout: default
 title: ludger_goeminne
 ---
-<img src="./figs/dummy.jpg" width="80">
+<img src="./figs/Ludger_goeminne.jpg" width="80">
 
 Under Construction
