@@ -14,4 +14,4 @@ Since 2007, Lieven Clement’s research focussed on Genomics and Statistical Bio
 
 Mailing address: [Department of Applied Mathematics, Computer Science and Statistics](https://www.ugent.be/we/twist/), [Ghent University](htpps://www.ugent.be), Krijgslaan 281 (S9), 9000 Ghent, Belgium.
 
-email: lieven dot clement at ugent dot be
+email: lieven dot clement at UGent dot be
