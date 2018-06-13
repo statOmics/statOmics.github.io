@@ -11,12 +11,12 @@ highlighter: rouge
 #
 
 #Default keywords (used if no keywords are specified on a page basis)
-keywords: Clement, Lieven
+keywords: Clement, Lieven, proteomics, transcriptomics, genomics, meta-genomics,  meta-proteomics, meta-transcriptomics, next-generation sequencing, statOmics, bioinformatics, ngs, biostatistics, statistical
 
 title : statOmics
 author :
   name : statOmics
-  email : lieven.clement@ugent.be
+  email :
   github : github.com/statOmics
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : https://statomics.github.io
