@@ -16,7 +16,7 @@ Most of our open-source tools and tutorials (including this website) can be foun
 
 2. Courses  
   - [Proteomics Data Analysis](https://github.com/statOmics/pda)
-  - [Proteomics Data Analysis (2018), Gulbenkian Training Programme in Bioinformatics](https://gtpb.github.io/PDA18/)
+  - [Proteomics Data Analysis (2018), Gulbenkian Training Programme in Bioinformatics](https://github.com/GTPB/PDA18)
 
 3. Companion repositories with the Data Analysis of Journal Papers  
   - [Observation weights unlock bulk RNA-seq tools for zero inflation and single-cell applications. Genome Biology 2018 19(1):24, PMID: 29478411](https://github.com/statOmics/zinbwaveZinger)
