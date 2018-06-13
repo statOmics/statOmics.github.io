@@ -5,7 +5,7 @@ title: People
 
 #### Current Lab Members
 
-1. [Gust Bilke](/pages/gust.html) (PhD Student)
+1. [Gust Bilcke](/pages/gust.html) (PhD Student)
 2. [Lieven Clement](/pages/about.html) (Principal Investigator)
 2. [Caroline Detender](/pages/caroline.html) (Postdoc)
 3. [Ludger Goeminne](/pages/ludger.html) (PhD Student)
