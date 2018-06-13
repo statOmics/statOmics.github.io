@@ -9,7 +9,8 @@ We develop novel statistical methods and tools for the interpretation of omics d
 Our research is structured according to three 'omics domain: Meta-genomics, Transcriptomics (RNA-seq and single cell RNA-seq) and Proteomics (Identification and Differential Analysis in Mass Spectrometry based Quantitative Proteomics). We also leverage expertise in experimental design and data analysis for omics to researchers in the life sciences and have a keen interest in 'omics data integration.
 
 
-<div style="max-width: 100%;margin-left: auto ; margin-right: auto ;">
+
+<div style="max-width: 400px;margin-left: auto ; margin-right: auto ;">
 
 <script type="text/javascript" src="assets/js/jssor.slider-21.1.min.js"></script>
 <!-- use jssor.slider-21.1.debug.js instead for debug -->
@@ -100,7 +101,7 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
   width: 30px;
   height: 46px;
   cursor: pointer;
-  background: url('assets/img/a12.png') no-repeat;
+  background: url('pages/figs/a12.png') no-repeat;
   overflow: hidden;
   }
   .jssora12l { background-position: -16px -37px; }
@@ -112,7 +113,8 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
 </style>
 
 
-<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 1100px; height: 500px; overflow: hidden; visibility: hidden;">
+<div id="jssor_1" style="position: relative; margin: 0 auto; top: 0px; left: 0px; width: 550px; height: 500px; overflow: hidden; visibility: hidden;">
+
   <!-- Loading Screen -->
   <div data-u="loading" style="position: absolute; top: 0px; left: 0px;">
     <div style="filter: alpha(opacity=70); opacity: 0.7; position: absolute; display: block; top: 0px; left: 0px; width: 100%; height: 100%;"></div>
@@ -151,6 +153,7 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
         </a>
       </div>
   </div>
+
 
   <!-- Bullet Navigator -->
   <div data-u="navigator" class="jssorb05" style="bottom:16px;right:16px;" data-autocenter="1">
