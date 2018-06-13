@@ -4,7 +4,7 @@ title: software
 ---
 <img src="./figs/software.png" width="100%">
 
-### GitHub
+#### GitHub
 
 Most of our open-source tools and tutorials (including this website) can be found on the [statOmics](https://github.com/statOmics/) organization on GitHub.
 
@@ -22,7 +22,7 @@ Most of our open-source tools and tutorials (including this website) can be foun
   - [stageR, stageR: a general stage-wise method for controlling the gene-level false discovery rate in differential expression and differential transcript usage. Genome Biology 2017 18(1):151PMID: 28784146](https://github.com/statOmics/stageWiseTestingPaper)
   - [Model based classification for digital PCR: your umbrella for rain. Analytical Chemistry 2017 18;89(8):4461-4467. PMID: 28350455](https://github.com/statOmics/umbrella)
 
-### Bioconductor
+#### Bioconductor
 
 1. StatOmics packages  
   - [stageR](https://bioconductor.org/packages/release/bioc/html/stageR.html)
