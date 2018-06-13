@@ -11,5 +11,5 @@ title: teaching
 #### Short courses
 - [Short course in Proteomics Data Analysis](https://statomics.github.io/pda/)
 
-#### Material previous short courses
+#### Previous short courses
 - [Proteomics Data Analysis (2018), Gulbenkian Training Programme in Bioinformatics](https://gtpb.github.io/PDA18/)
