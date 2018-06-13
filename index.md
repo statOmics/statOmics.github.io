@@ -152,6 +152,12 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
     <img data-u="image" src="pages/figs/stageR.png" title=""/>
         </a>
       </div>
+
+      <div data-p="112.50" style="display: none;">
+        <a href="https://statomics.github.io/pda/">
+    <img data-u="image" src="pages/figs/pda.png" title=""/>
+        </a>
+      </div>
   </div>
 
 
