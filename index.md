@@ -76,7 +76,7 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
   /* size of bullet elment */
   width: 16px;
   height: 16px;
-  background: url('img/b05.png') no-repeat;
+  background: url('pages/figs/b05.png') no-repeat;
             overflow: hidden;
   cursor: pointer;
   }
