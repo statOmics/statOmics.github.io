@@ -65,6 +65,6 @@
   color: #FFF; }
 
 /* Added by lieven */
-h1, h2, h3, h4, strong {
+h1, h2, h3, h4, strong, b {
     color: darkslateblue;
 }
