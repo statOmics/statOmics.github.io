@@ -58,7 +58,34 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
 </script>
 
 <style>
+    /* jssor slider arrow navigator skin 02 css */
+    /*
+    .jssora02l                  (normal)
+    .jssora02r                  (normal)
+    .jssora02l:hover            (normal mouseover)
+    .jssora02r:hover            (normal mouseover)
+    .jssora02l.jssora02ldn      (mousedown)
+    .jssora02r.jssora02rdn      (mousedown)
+    */
+    .jssora02l, .jssora02r {
+        display: block;
+        position: absolute;
+        /* size of arrow element */
+        width: 55px;
+        height: 55px;
+        cursor: pointer;
+        background: url(../img/a02.png) no-repeat;
+        overflow: hidden;
+    }
+    .jssora02l { background-position: -3px -33px; }
+    .jssora02r { background-position: -63px -33px; }
+    .jssora02l:hover { background-position: -123px -33px; }
+    .jssora02r:hover { background-position: -183px -33px; }
+    .jssora02l.jssora02ldn { background-position: -3px -33px; }
+    .jssora02r.jssora02rdn { background-position: -63px -33px; }
+</style>
 
+<style>
   /* jssor slider bullet navigator skin 05 css */
   /*
   .jssorb05 div           (normal)
@@ -158,8 +185,8 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
     <div data-u="prototype" style="width:16px;height:16px;"></div>
   </div>
   <!-- Arrow Navigator -->
-  <span data-u="arrowleft" class="jssora12l" style="top:0px;left:0px;width:30px;height:46px;" data-autocenter="2"></span>
-  <span data-u="arrowright" class="jssora12r" style="top:0px;right:0px;width:30px;height:46px;" data-autocenter="2"></span>
+  <span data-u="arrowleft" class="jssora02l" style="top:0px;left:0px;width:30px;height:46px;" data-autocenter="2"></span>
+  <span data-u="arrowright" class="jssora02r" style="top:0px;right:0px;width:30px;height:46px;" data-autocenter="2"></span>
 </div>
 <script>
   jssor_1_slider_init();
