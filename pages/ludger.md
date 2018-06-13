@@ -12,17 +12,17 @@ In the statOmics group, Ludger focusses on methods to improve quantification in 
 
 #### Peer-reviewed publications
 
-Van Quickelberghe, E., Martens, A., **Goeminne L.J.E.**, Clement, L., van Loo, G., Gevaert, K. (2018). Identification of immune-response gene 1 (IRG1) as a target of A20. [Journal of Proteome Research. DOI: 10.1021/acs.jproteome.8b00139.](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00139)
+Van Quickelberghe, E., Martens, A., **Goeminne L.J.E.**, Clement, L., van Loo, G., Gevaert, K. (2018). [Identification of immune-response gene 1 (IRG1) as a target of A20.](https://pubs.acs.org/doi/10.1021/acs.jproteome.8b00139) Journal of Proteome Research. DOI: 10.1021/acs.jproteome.8b00139.
 
-**Goeminne L.J.E.**, Gevaert K. and Clement L. (2018). Experimental design and data-analysis in label-free quantitative LC/MS proteomics: A tutorial with MSqRob. [Journal of Proteomics. 117. 23-36.](https://www.sciencedirect.com/science/article/pii/S1874391917301239)
+**Goeminne L.J.E.**, Gevaert K. and Clement L. (2018). [Experimental design and data-analysis in label-free quantitative LC/MS proteomics: A tutorial with MSqRob. Journal of Proteomics.](https://www.sciencedirect.com/science/article/pii/S1874391917301239) 117. 23-36.
 
-Argentini A., **Goeminne L.J.E.**, Verheggen K., Hulstaert N., Staes A., Clement L., Martens L. (2016). moFF: a robust and automated approach to extract peptide ion intensities. [Nature Methods. 13(12). 964-966.](https://www.nature.com/articles/nmeth.4075)
+Argentini A., **Goeminne L.J.E.**, Verheggen K., Hulstaert N., Staes A., Clement L., Martens L. (2016). [moFF: a robust and automated approach to extract peptide ion intensities.](https://www.nature.com/articles/nmeth.4075) Nature Methods. 13(12). 964-966.
 
-Argentini A., **Goeminne L.J.E.**, Verheggen K., Hulstaert N., Staes A., Clement L., Martens L. (2016). moFF to Extract Peptide Ion Intensities from LC-MS experiments. [Protocol Exchange. DOI: 10.1038/ protex. 2016. 085.](https://www.nature.com/protocolexchange/protocols/5233)
+Argentini A., **Goeminne L.J.E.**, Verheggen K., Hulstaert N., Staes A., Clement L., Martens L. (2016). [moFF to Extract Peptide Ion Intensities from LC-MS experiments.](https://www.nature.com/protocolexchange/protocols/5233) Protocol Exchange. DOI: 10.1038/ protex. 2016. 085.
 
-**Goeminne L.J.E.**, Gevaert K. and Clement L. (2016). Peptide-level Robust Ridge Regression Improves Estimation, Sensitivity, and Specificity in Data-dependent Quantitative Label-free Shotgun Proteomics. [Molecular & Cellular Proteomics. 15 (2). 657-668.](http://www.mcponline.org/content/15/2/657.long)
+**Goeminne L.J.E.**, Gevaert K. and Clement L. (2016). [Peptide-level Robust Ridge Regression Improves Estimation, Sensitivity, and Specificity in Data-dependent Quantitative Label-free Shotgun Proteomics.](http://www.mcponline.org/content/15/2/657.long) Molecular & Cellular Proteomics. 15 (2). 657-668.
 
-**Goeminne L.J.E.**, Argentini A., Martens L. and Clement L. (2015). Summarization vs Peptide-Based Models in Label-Free Quantitative Proteomics: Performance, Pitfalls, and Data Analysis Guidelines. [Journal of Proteome Research. 14 (6). 2457-2465.](https://pubs.acs.org/doi/10.1021/pr501223t)
+**Goeminne L.J.E.**, Argentini A., Martens L. and Clement L. (2015). [Summarization vs Peptide-Based Models in Label-Free Quantitative Proteomics: Performance, Pitfalls, and Data Analysis Guidelines.](https://pubs.acs.org/doi/10.1021/pr501223t) Journal of Proteome Research. 14 (6). 2457-2465.
 
 #### Contact
 
