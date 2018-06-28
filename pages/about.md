@@ -10,6 +10,8 @@ Lieven Clement graduated as Master in Bio-Science Engineering  at Ghent Universi
 
 Since 2007, Lieven Clement’s research focusses on Genomics and Statistical Bioinformatics problems. In particular he developed statistical data analysis methods for microarrays, digital PCR, next-generation sequencing, and mass spectrometry based proteomics. His research efforts resulted in numerous publications on novel methods and tools for, and applied research in, omics data analysis. His lab is built around three strategic research pillars each connected to an omics domain: (meta)genomics, (single cell) transcriptomics and proteomics. He is a strong advocate of open and reproducible science, which he actively propagates in his research and his teaching activities. He is also keen on leveraging his expertise in experimental design, omics data analysis and integration to researchers in the life science and to translational research.
 
+Here you can find the [CV of Lieven Clement](/assets/lievenClementCV.pdf).
+
 #### Contact
 
 Mailing address: [Department of Applied Mathematics, Computer Science and Statistics](https://www.ugent.be/we/twist/), [Ghent University](htpps://www.ugent.be), Krijgslaan 281 (S9), 9000 Ghent, Belgium.
