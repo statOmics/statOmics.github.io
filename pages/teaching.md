@@ -4,8 +4,8 @@ title: teaching
 ---
 
 #### Ghent University
-- [Statistiek](https://users.ugent.be/~lclement/statistiek/), 2nd Bachelor of Science in Biology, 2nd Bachelor of Science in Chemistry, 2nd Bachelor of Science in biochemistry and Biotechnology, 2nd Bachelor of Science in Biomedical Sciences.
-- Statistical Genomics, 1st Master of Science in Bioinformatics
+- [Statistiek](https://statomics.github.io/statistiekBasisCursus/), 2nd Bachelor of Science in Biology, 2nd Bachelor of Science in Chemistry, 2nd Bachelor of Science in biochemistry and Biotechnology, 2nd Bachelor of Science in Biomedical Sciences.
+- [Statistical Genomics](https://statomics.github.io/statisticalGenomicsCourse/), 1st Master of Science in Bioinformatics & Master of Science in Statistical Data Analysis
 - [UGent Teaching](https://telefoonboek.ugent.be/nl/people/801001441317)
 
 #### Short courses
