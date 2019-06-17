@@ -124,6 +124,18 @@ Our research is structured according to three 'omics domain: Meta-genomics, Tran
   <div data-u="slides" style="cursor: default; position: relative; top: 0px; left: 25px; width: 1000px; height: 500px; overflow: hidden;">
 
   <div data-p="112.50" style="display: none;">
+    <a href="https://www.biorxiv.org/content/10.1101/623397v1">
+<img data-u="image" src="pages/figs/tradeSeq.png" title=""/>
+    </a>
+    </div>
+
+    <div data-p="112.50" style="display: none;">
+      <a href="https://www.biorxiv.org/content/10.1101/668863v1">
+  <img data-u="image" src="pages/figs/msqrobSum.png" title=""/>
+      </a>
+      </div>
+
+  <div data-p="112.50" style="display: none;">
     <a href="https://www.ncbi.nlm.nih.gov/pubmed/29478411">
 <img data-u="image" src="pages/figs/zinbwave-zingeR.png" title=""/>
     </a>
