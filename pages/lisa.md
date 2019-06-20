@@ -2,7 +2,7 @@
 layout: default
 title: lisa_joos
 ---
-<img src="./figs/dummy.jpg" width="80">
+<img src="./figs/lisa.jpg" width="100">
 
 #### Bio
 
