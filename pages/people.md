@@ -7,7 +7,7 @@ title: People
 
 1. [Gust Bilcke](/pages/gust.html) (PhD Student)
 2. [Lieven Clement](/pages/about.html) (Principal Investigator)
-2. [Caroline Detender](/pages/caroline.html) (Postdoc)
+2. [Caroline De Tender](/pages/caroline.html) (Postdoc)
 3. [Lisa Joos](/pages/lisa.html) (PhD Student)
 4. [Gwendolien Sergeant](/pages/gwendolien.html) (PhD Student)
 5. Adriaan Sticker (PhD Student)
