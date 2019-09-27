@@ -7,6 +7,7 @@ title: People
 
 1. [Gust Bilcke](/pages/gust.html) (PhD Student)
 2. [Lieven Clement](/pages/about.html) (Principal Investigator)
+2. Elke Debrie (PhD Student)
 2. Nina Demeulemeester (PhD Student)
 2. [Caroline De Tender](/pages/caroline.html) (Postdoc)
 2. Jeroen Gilis (PhD Student)
