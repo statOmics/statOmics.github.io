@@ -10,7 +10,7 @@ title: People
 2. Elke Debrie (PhD Student)
 2. Nina Demeulemeester (PhD Student)
 2. [Caroline De Tender](/pages/caroline.html) (Postdoc)
-2. Jeroen Gilis (PhD Student)
+2. [Jeroen Gilis](/pages/jeroen.html) (PhD Student)
 3. [Lisa Joos](/pages/lisa.html) (PhD Student)
 4. [Gwendolien Sergeant](/pages/gwendolien.html) (PhD Student)
 5. Adriaan Sticker (PhD Student)
