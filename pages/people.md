@@ -12,6 +12,7 @@ title: People
 2. [Caroline De Tender](/pages/caroline.html) (Postdoc)
 2. [Jeroen Gilis](/pages/jeroen.html) (PhD Student)
 3. [Lisa Joos](/pages/lisa.html) (PhD Student)
+3. Milan Malfait (PhD Student)
 4. [Gwendolien Sergeant](/pages/gwendolien.html) (PhD Student)
 5. Adriaan Sticker (PhD Student)
 6. [Koen Van den Berge](/pages/koen.html) (Postdoc)
