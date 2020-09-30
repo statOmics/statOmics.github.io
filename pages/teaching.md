@@ -10,6 +10,7 @@ title: teaching
     - [Statistiek: Data Exploratie en Visualisatie in R](https://dodona.ugent.be/nl/courses/376/)
     - [R Basics](https://dodona.ugent.be/nl/courses/335/)
     - [R Data Exploration and Visualisation](https://dodona.ugent.be/nl/courses/345/)
+    
 
 - [High Dimensional Data Analysis 2020](https://statomics.github.io/HDA2020/), Master of Science in Statistical Data Analysis.
 
