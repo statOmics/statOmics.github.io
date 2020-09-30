@@ -11,6 +11,8 @@ title: teaching
     - [R Basics](https://dodona.ugent.be/nl/courses/335/)
     - [R Data Exploration and Visualisation](https://dodona.ugent.be/nl/courses/345/)
 
+- [High Dimensional Data Analysis 2020](https://statomics.github.io/HDA2020/), Master of Science in Statistical Data Analysis.
+
 - [Statistical Genomics 2020](https://statomics.github.io/SGA2020/), 1st Master of Science in Bioinformatics & Master of Science in Statistical Data Analysis.
 
 - [Statistiek 2020](https://statomics.github.io/sbc20/), 2nd Bachelor of Science in Biology, 2nd Bachelor of Science in Biochemistry and Biotechnology, 2nd Bachelor of Science in Biomedical Sciences and 2nd Bachelor of Science in Chemistry.
