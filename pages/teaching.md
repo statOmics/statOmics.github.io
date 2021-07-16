@@ -20,12 +20,14 @@ title: teaching
 
 - [UGent Teaching](https://telefoonboek.ugent.be/nl/people/801001441317)
 
-#### Short courses and lectures
+#### Short courses 
+
+- [Short course in Proteomics Data Analysis](https://statomics.github.io/PDA21/)
+
+#### Previous short courses and lectures
 
 - [An introduction to state-space models for time-series analysis with examples on three major crypto-currencies](https://statomics.github.io/StateSpaceCrypto/)
-- [Short course in Proteomics Data Analysis](https://statomics.github.io/pda/)
 
-#### Previous short courses
 - [PSLS20: Practical Statistics for the Live Sciences (2020), Gulbenkian Training Programme in Bioinformatics](https://gtpb.github.io/PSLS20/)
 - [PDA19: Proteomics Data Analysis (2019), Gulbenkian Training Programme in Bioinformatics](https://gtpb.github.io/PDA19/)
 - [PDA18: Proteomics Data Analysis (2018), Gulbenkian Training Programme in Bioinformatics](https://gtpb.github.io/PDA18/)
