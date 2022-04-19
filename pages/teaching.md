@@ -15,7 +15,7 @@ title: teaching
 
 - [High Dimensional Data Analysis](https://statomics.github.io/HDDA/), Master of Science in Statistical Data Analysis.
 
-- [Statistical Genomics](https://statomics.github.io/SGA2021/), 1st Master of Science in Bioinformatics & Master of Science in Statistical Data Analysis.
+- [Statistical Genomics](https://statomics.github.io/SGA21/), 1st Master of Science in Bioinformatics & Master of Science in Statistical Data Analysis.
 
 - [Statistiek](https://statomics.github.io/sbc21/), 2nd Bachelor of Science in Biology, 2nd Bachelor of Science in Biochemistry and Biotechnology, 2nd Bachelor of Science in Biomedical Sciences and 2nd Bachelor of Science in Chemistry.
 
