@@ -6,8 +6,8 @@ title: teaching
 #### Ghent University
 
 ##### Interactive Dodona Course Sites:
-- [Statistiek](https://dodona.ugent.be/nl/courses/469/)
-- [Statistiek: introductie to R](https://dodona.ugent.be/nl/courses/804/)
+- [Statistiek](https://dodona.ugent.be/en/courses/469/)
+- [Statistiek: introductie to R](https://dodona.ugent.be/en/courses/804/)
 - [R Basics](https://dodona.ugent.be/nl/courses/335/)
 - [R Data Exploration and Visualisation](https://dodona.ugent.be/nl/courses/345/)
 
@@ -19,13 +19,15 @@ title: teaching
 
 - [Statistiek](https://statomics.github.io/sbc21/), 2nd Bachelor of Science in Biology, 2nd Bachelor of Science in Biochemistry and Biotechnology, 2nd Bachelor of Science in Biomedical Sciences and 2nd Bachelor of Science in Chemistry.
 
+- [Biostatistiek](https://statomics.github.io/biostatistics21/) 3th Bachelor of Science in Biology, partim univariate statistics.
+
 - [UGent Teaching](https://telefoonboek.ugent.be/nl/people/801001441317)
 
 #### Short courses 
 
-- [Short course in Proteomics Data Analysis](https://statomics.github.io/PDA21/)
+- [Short course in Proteomics Data Analysis](https://statomics.github.io/PDA/)
 
-- [Practical Statistics for the Live Sciences](https://statOmics.github.io/PSLS21/)
+- [Practical Statistics for the Live Sciences](https://statOmics.github.io/PSLS/)
 
 
 #### Previous short courses and lectures
