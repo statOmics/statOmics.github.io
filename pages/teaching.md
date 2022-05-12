@@ -21,6 +21,8 @@ title: teaching
 
 - [Biostatistiek](https://statomics.github.io/biostatistics21/) 3th Bachelor of Science in Biology, partim univariate statistics.
 
+- [Our Github Course Template](https://github.com/statOmics/Rmd-website)
+
 - [UGent Teaching](https://telefoonboek.ugent.be/nl/people/801001441317)
 
 #### Short courses 
