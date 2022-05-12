@@ -19,7 +19,7 @@ title: teaching
 
 - [Statistiek](https://statomics.github.io/sbc21/), 2nd Bachelor of Science in Biology, 2nd Bachelor of Science in Biochemistry and Biotechnology, 2nd Bachelor of Science in Biomedical Sciences and 2nd Bachelor of Science in Chemistry.
 
-- [Biostatistiek](https://statomics.github.io/biostatistics21/) 3th Bachelor of Science in Biology, partim univariate statistics.
+- [Biostatistiek](https://statomics.github.io/biostatistics21/), 3th Bachelor of Science in Biology, partim univariate statistics.
 
 - [Our Github Course Template](https://github.com/statOmics/Rmd-website)
 
